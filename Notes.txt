@@ -1,0 +1,1 @@
+npm install react-router-dom@5 for Router V5 to use Switch
