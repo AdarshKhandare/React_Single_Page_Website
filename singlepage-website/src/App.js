@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Navbar from "./compoents/Navbar/Navbar";
 import Home from "./Pages/HomePage/Home";
+import Footer from "./compoents/Footer/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Switch>
         <Route path="/" exact component={Home} />
       </Switch>
+      <Footer/>
     </Router>
   );
 }
