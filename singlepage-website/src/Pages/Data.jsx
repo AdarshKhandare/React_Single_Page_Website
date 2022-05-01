@@ -11,7 +11,7 @@ export const homeObjOne1 = {
   description:
     "We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.",
   start: "",
-  img: require("../../images/svg-1.svg").default,
+  img: require("../Pages/images/svg-1.svg").default,
   alt: "Image",
 };
 export const homeObjOne2 = {
@@ -27,7 +27,7 @@ export const homeObjOne2 = {
   description:
     "We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.",
   start: "true",
-  img: require("../../images/profile.jpg"),
+  img: require("../Pages/images/profile.jpg"),
   alt: "Image",
 };
 export const homeObjOne3 = {
@@ -43,7 +43,7 @@ export const homeObjOne3 = {
   description:
     "We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.",
   start: "",
-  img: require("../../images/svg-2.svg").default,
+  img: require("../Pages/images/svg-2.svg").default,
   alt: "Image",
 };
 
@@ -60,6 +60,6 @@ export const homeObjOne4 = {
   description:
     "We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals.",
   start: "true",
-  img: require("../../images/svg-3.svg").default,
+  img: require("../Pages/images/svg-3.svg").default,
   alt: "Image",
 };
